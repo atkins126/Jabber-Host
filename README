@@ -1,0 +1,13 @@
+Jabber Host
+
+Copyright 2011 Opt-In Software. http://www.optinsoft.com/
+
+This program allows to extract forgotten jabber password from your jabber client.
+I wrote this program for myself when I forgot my jabber password and extracted it from Miranda IM.
+
+Read more about usage of this program here:
+http://www.optinsoft.com/miranda-jabber-password-recovery.php
+
+To build Jabber Host from sources you will need Delphi 7 with Indy 9 library.
+
+You can freely use this program and code for your needs
