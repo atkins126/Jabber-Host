@@ -75,6 +75,7 @@ You can freely use this program and code for your needs.
 Please, don't remove this copyright.
 *)
 
+
 uses StrUtils;
 
 {$R *.dfm}
