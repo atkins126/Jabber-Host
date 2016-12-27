@@ -3,12 +3,12 @@ unit Unit1;
 interface
 
 (*
-Copyright 2011 Opt-In Software. http://www.optinsoft.com/
+Copyright 2011 Opt-In Software. http://optinsoft.net/
 
 This program helps you to recover your jabber password from Miranda IM.
 
 Read more about usage of this program and download compiled version and sources here:
-http://www.optinsoft.com/miranda-jabber-password-recovery.php
+http://optinsoft.net/miranda-jabber-password-recovery.php
 
 I built this program using Delphi 7 with Indy 9 library.
 
@@ -211,7 +211,7 @@ end;
 procedure TForm1.Label5Click(Sender: TObject);
 begin
   ShellExecute(GetDesktopWindow(), 'open',
-    PChar('http://www.optinsoft.com/?referer=jh'),
+    PChar('http://optinsoft.net/?referer=jh'),
     nil, nil, SW_SHOWNORMAL);
 end;
 
